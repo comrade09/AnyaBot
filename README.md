@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 BOA HANCOCK IS A MODULAR BOT WITH ONE PIECE THEME 」──
+    ──「 hu hu hu I'm Anya ˵ ̫˵ , use me as your group management bot 」──
 </h2>
 
 <p align="center">
@@ -51,14 +51,8 @@
 </p>
 
 ```
-This Bot is Created by Nchuuya and Jinwoo Team, If your kanging this without fork at least give a credit to get a smile of my hard work. 
-- Boa Hancock
-- EmikoRobot
-- YoneRobot
-- SaitamaRobot 
-- TheRealPhoenixBot
-- DaisyX 
-- WilliamButcherBot
+This Bot is Created by @Ryuzakix7, If your kanging this without fork at least give a credit to get a smile of my hard work. 
+- AnyaBot
 ```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Eb5nwe)
